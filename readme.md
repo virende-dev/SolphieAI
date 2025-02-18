@@ -6,7 +6,7 @@ base_model:
 
 # 🧠 Solphie-1S Foundation Model  
 
-![Solphie](https://huggingface.co/datasets/Solphie/Solphie-1S-Foundation-Model-DS/resolve/main/logo.png)  
+![Solphie](https://i.ibb.co/bjCbhFJ5/solphie-banner.png)  
 
 [![License](https://img.shields.io/badge/license-AGPL%20v3-blue?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0.html)  
 [![HF](https://img.shields.io/badge/HuggingFace-Solphie--1S--Foundation--Model-orange?style=flat-square&logo=huggingface)](https://huggingface.co/Solphie/Solphie-1S-Foundation-Model)  
