@@ -161,7 +161,7 @@ python3 demo.py
 
 For discussions, updates, and support:  
 - **Twitter**: [@SolphieAI](https://x.com/SolphieAI)  
-- **Hugging Face**: [Model Hub](https://huggingface.co/Solphie/Solphie-1S-Foundation-Model)  
+- **Hugging Face**: [Datasets](https://huggingface.co/datasets/Virende/Solphie-1S-Foundation-Model-DS)  
 
 ---
 
@@ -180,7 +180,7 @@ Special thanks to the **Solana ecosystem developers, the Web3 AI community, and 
 ## 🔗 **Related Resources**  
 
 - [Solana Official Documentation](https://docs.solana.com)  
-- [Hugging Face Model Repo](https://huggingface.co/Solphie/Solphie-1S-Foundation-Model)  
+- [Hugging Face Model](https://huggingface.co/Solphie/Solphie-1S-Foundation-Model)  
 - [Solana Developer Tools](https://solana.com/developers)  
 ```
 
