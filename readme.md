@@ -11,7 +11,7 @@ CA:H62qVjizU7vNtqVJVAiy2A1541atw856KPtAsLyGpump
 ![Solphie](https://i.ibb.co/bjCbhFJ5/solphie-banner.png)  
 
 [![License](https://img.shields.io/badge/license-AGPL%20v3-blue?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0.html)  
-[![HF](https://img.shields.io/badge/HuggingFace-Solphie--1S--Foundation--Model-orange?style=flat-square&logo=huggingface)](https://huggingface.co/Solphie/Solphie-1S-Foundation-Model)  
+[![HF](https://img.shields.io/badge/HuggingFace-Solphie--1S--Foundation--Model-orange?style=flat-square&logo=huggingface)](https://huggingface.co/Virende/Solphie-1S-Foundation-Model)  
 
 ---
 
